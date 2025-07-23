@@ -1,0 +1,12 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar archivos de log
+npm-debug.log
+*.log
+
+# Ignorar configuración de sistema/mac
+.DS_Store
+
+# Ignorar variables privadas si las usas algún día
+.env

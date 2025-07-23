@@ -8,5 +8,5 @@ npm-debug.log
 # Ignorar configuración de sistema/mac
 .DS_Store
 
-# Ignorar variables privadas si las usas algún día
+# Ignorar variables privadas si las usas algún dí
 .env
